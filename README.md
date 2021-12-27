@@ -1,2 +1,2 @@
 # SitePHP
-Site simples que criei com intuíto de treinar minhas habilidades em php.
+Site simples que criei com intuito de treinar minhas habilidades em php.
